@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+SpeechRecognition
+edge-tts
+pygame
+psutil
+groq
+rapidfuzz
+ultralytics
+folium
+streamlit-folium
+pandas
+plotly
+PyAudio
