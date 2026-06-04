@@ -1,1 +1,0 @@
-# Aeroguard---Autonomous-FOD-and-obstacle-detection
