@@ -94,8 +94,11 @@ pip install -r requirements.txt
 3. Download the test videos from google drive
 [Videos Folder](https://drive.google.com/drive/folders/1hFhZonQy5Pkk9N3qwhrblEA-Vc0aRVl2?usp=sharing)
 Make sure all the files are in same folder
+4. Attention! Upon uploading the API key on the github main branch, the key is getting revoked. We recommend generating an API key for explicit running of the model.
 
-4. Then in terminal run
+5. Steps for generating an API key. Go to [Groq](https://console.groq.com/keys), first create an account if there is not any. After creating, click on 'create API', and a key will be generated. Then go to the file named '8_phase3_remastered.py', check line no. 25 with the variable 'api_key', replace the current key with the new key, save it.
+
+6. Then in terminal run
 ```
 python 8_phase3_remastered.py
 ```
